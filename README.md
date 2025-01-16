@@ -2,11 +2,11 @@
 
 Lorsqu'on me demande de réaliser un site web, il y a un point qui revient systématiquement : tout le monde veut **un site simple**.
 
-C'est ensuite que les ennuis commençent. Une fois le projet lancé, il est tentant de prendre des décisions qui vont mettre à rude épreuve la simplicité initialement souhaitée. Le budget, la maintenabilité et parfois même la qualité finale peuvent en prendre un coup. La simplicité peut rapidement devenir un lointain souvenir…
+C'est ensuite que les ennuis commencent. Une fois le projet lancé, il est tentant de prendre des décisions qui vont mettre à rude épreuve la simplicité initialement souhaitée. Le budget, la maintenabilité et parfois même la qualité finale peuvent en prendre un coup. La simplicité peut rapidement devenir un lointain souvenir…
 
 Mais alors, un site simple, c'est quoi exactement ? Chacune et chacun en aura sa définition. Je vous propose ici la mienne.
 
-Le but ? Définir clairement la simplicité pour qu'elle puisse rester un cap tout au long d'un projet web. Un pré-requis objectif plutôt qu'une vague intention. Allons-y !
+Le but ? Définir clairement la simplicité pour qu'elle puisse rester un cap tout au long d'un projet web. Un prérequis objectif plutôt qu'une vague intention. Allons-y !
 
 ## Un site simple repose sur les technologies fondamentales du web
 
@@ -22,11 +22,11 @@ Un site simple n'en a pas besoin !
 
 ## Un site simple est moderne
 
-Eh oui ! Les technologie fondamentales du web continuent d'évoluer depuis les années 90 (et heureusement). Elles permettent désormais en quelques lignes de gérer le redimensionnement aux différentes tailles d'écran, les animations, la bonne performance du site…
+Eh oui ! Les technologies fondamentales du web continuent d'évoluer depuis les années 90 (et heureusement). Elles permettent désormais en quelques lignes de gérer le redimensionnement aux différentes tailles d'écran, les animations, la bonne performance du site…
 
 C'est justement la modernité de ces langages qui permet aujourd'hui de se passer plus facilement des outils complexes dont j'ai parlé.
 
-Un site simple n'a donc rien de rétrograde : en mobilisant les capacités modernes les langages du web, c'est même tout le contraire.
+Un site simple n'a donc rien de rétrograde : en mobilisant les capacités modernes des langages du web, c'est même tout le contraire.
 
 ## Un site simple est pérenne
 
@@ -38,7 +38,7 @@ Un site simple peut rester en ligne des décennies et être mis à jour dans de 
 
 ## Un site simple vous appartient
 
-Le code que je produit est à vous, littérallement. Vous en obtenez une copie intégrale à chaque mise à jour.
+Le code que je produis est à vous, littérallement. Vous en obtenez une copie intégrale à chaque mise à jour.
 
 Comme je n'utilise que des techniques de base, vous pourrez facilement en confier la charge à quelqu'un d'autre si vous le souhaitez.
 
@@ -46,7 +46,7 @@ Comme je n'utilise que des techniques de base, vous pourrez facilement en confie
 
 Il dispose d'un système de navigation classique sous la forme d'un menu bien organisé, rendant la structure du site évidente.
 
-Un site simple évite par conséquent un certains nombres de contenus dont la mise en place et l'usage s'avère généralement complexe :
+Un site simple évite par conséquent un certain nombre de contenus dont la mise en place et l'usage s'avèrent généralement complexes :
 
 - carrousels (défilement horizontal de plusieurs contenus successifs) ;
 - systèmes d'onglets ;
@@ -63,17 +63,17 @@ En utilisant les techniques fondamentales du web, un site simple s'assure de ne 
 
 Si votre contenu est par nature plus lourd (vidéo, audio, grandes images…), il est optimisé et chargé progressivement au cours de la navigation.
 
-Faire simple, c'est s'adapter aux conditions de connexion les plus difficiles possible.
+Faire simple, c'est s'adapter aux conditions de connexion les plus difficiles possibles.
 
 ## Un site simple est sobre
 
 « Écologique » serait un bien grand mot : cela dépend surtout de l'impact de l'activité que vous comptez promouvoir sur le site en question.
 
-En revanche, en visant la simplicité et donc la légereté, un site simple est effectivement moins consommateur que les autres.
+En revanche, en visant la simplicité et donc la légèreté, un site simple est effectivement moins consommateur que les autres.
 
 Ce sont de grosses différences dont il est question : la page d'accueil de Wikipédia consomme **50 fois moins d'énergie** que celle d'Amazon (source : [Website Carbon Calculator](https://www.websitecarbon.com/)).
 
-Un site simple s'inscrit en opposition à la logique d'obsolescence programmée qui impose de renouveller fréquemment nos appareils pour pouvoir accéder à des contenus de plus en plus demandeurs de ressources.
+Un site simple s'inscrit en opposition à la logique d'obsolescence programmée qui impose de renouveler fréquemment nos appareils pour pouvoir accéder à des contenus de plus en plus demandeurs de ressources.
 
 ## Un site simple est accessible
 
@@ -89,19 +89,19 @@ Les architectures complexes entravent parfois le bon accès de votre contenu aux
 
 Par ailleurs, les moteurs de recherche favorisent les sites légers et respectueux de l'accessibilité numérique. Ça tombe bien, on en a déjà parlé.
 
-Pour qu'il passe de référencé à _bien_ référencé, c'est une autre histoire ! Contenu pertinent, présence sur les réseaux, mises à jour régulière... et bien sûr le bouche à oreille. Cela requiert un travail régulier, mais un site simple vous offre déjà une base saine.
+Pour qu'il passe de référencé à _bien_ référencé, c'est une autre histoire ! Contenu pertinent, présence sur les réseaux, mises à jour régulières... et bien sûr le bouche à oreille. Cela requiert un travail régulier, mais un site simple vous offre déjà une base saine.
 
 ## Un site simple n'espionne pas
 
 Il n'installe pas de traceurs sur l'ordinateur des gens et n'envoie pas de données personnelles sur les serveurs d'une grande entreprise américaine (on ne citera pas de nom). Il ne demande pas non plus d'accepter les cookies dès l'ouverture de la page d'accueil via une bannière désagréable.
 
-Pour que vous puissiez mesurer la fréquentation de votre site, il envoie les données anonymes à [getinsights.io](https://getinsights.io/), un service européeen. Conformément à la norme [RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees), seules des données non personnelles sont récoltées : pages vues, type d'écran, langue du navigateur...
+Pour que vous puissiez mesurer la fréquentation de votre site, il envoie les données anonymes à [getinsights.io](https://getinsights.io/), un service européen. Conformément à la norme [RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees), seules des données non personnelles sont récoltées : pages vues, type d'écran, langue du navigateur...
 
-Et évidemment, on oublie pas l'essentiel : c'est simple.
+Et évidemment, on n'oublie pas l'essentiel : c'est simple.
 
 ## Un site simple coûte moins cher
 
-Soyons clairs : le moins cher, c'est toujours d'utiliser un service de création de site web à concevoir « soi-même ». Wix et WordPress sont deux noms connus. C'est une bonne option lorsque le budget est vraiment sérré. Mais parfois, la complexité et les limitations de ces outils se fait sentir. Ils ne produisent pas des sites de la meilleure qualité et on peut tout simplement avoir envie de confier ce travail à quelqu'un dont c'est le métier.
+Soyons clairs : le moins cher, c'est toujours d'utiliser un service de création de site web à concevoir « soi-même ». Wix et WordPress sont deux noms connus. C'est une bonne option lorsque le budget est vraiment serré. Mais parfois, la complexité et les limitations de ces outils se font sentir. Ils ne produisent pas des sites de la meilleure qualité et on peut tout simplement avoir envie de confier ce travail à quelqu'un dont c'est le métier.
 
 C'est là qu'il devient intéressant de se tourner vers un site « sur mesure ». Et en la matière, un site simple sera toujours le moins cher.
 
@@ -114,8 +114,8 @@ C'est un des constats à la base de cette approche : si l'on veut **une qualité
 Une technique révolutionnaire : plutôt que de passer par une interface complexe, la mise à jour se fait en communiquant avec l'être humain qui l'a conçu (c'est moi !).
 
 C'est un parti pris assumé qui mérite bien quelques points d'explication :
-- La mise en place d'une interface d'administration représente une complexité non négligeable qui peut rapidement affecter le coût du projet. Certes, une mise à jour humaine représente un coût de main d'œuvre. Mais d'expérience, un site n'est pas mis à jour trois fois par semaine. La mise à jour passant par le concepteur peut donc rester financièrement avantageuse.
+- La mise en place d'une interface d'administration représente une complexité non négligeable qui peut rapidement affecter le coût du projet. Certes, une mise à jour humaine représente un coût de main-d'œuvre. Mais d'expérience, un site n'est pas mis à jour trois fois par semaine. La mise à jour passant par le concepteur peut donc rester financièrement avantageuse.
 - Certaines personnes n'ont pas envie de se prendre la tête, et je les comprends. Les interfaces en question restent complexes et truffées de paramètres. Il n'est pas rare qu'il soit nécessaire de faire appel au concepteur malgré tout car on ne parvient pas à ses fins. À la place, je vous propose d'exprimer simplement votre besoin et de m'en charger.
-- Il est facile pour une personne modifiant son site d'introduire involontairement des problèmes : images non optimisées, contenus innaccessibles selon les handicaps, liens incorrects… C'est alors la qualité du site elle-même qui se dégrade progressivement. À l'inverse, quelqu'un dont c'est le métier pourra veiller à la bonne intégrité du site.
+- Il est facile pour une personne modifiant son site d'introduire involontairement des problèmes : images non optimisées, contenus inaccessibles selon les handicaps, liens incorrects… C'est alors la qualité du site elle-même qui se dégrade progressivement. À l'inverse, quelqu'un dont c'est le métier pourra veiller à la bonne intégrité du site.
 
 <!-- TODO : forms ? -->
